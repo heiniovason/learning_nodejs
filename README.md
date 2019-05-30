@@ -1,2 +1,1 @@
-# learning_nodejs
-Laerning Node.js
+# Learning Node.js notes
